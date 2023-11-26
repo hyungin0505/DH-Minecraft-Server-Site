@@ -1,0 +1,38 @@
+header h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Jua', sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: 600;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#main p {
+    color: white;
+    margin-left: 40px;
+    font-size: 30px;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: 'Jua', sans-serif;
+}
+
+#main img {
+    width: 1000px;
+    margin: auto;
+    display: block;
+}
+
+#main .content {
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
