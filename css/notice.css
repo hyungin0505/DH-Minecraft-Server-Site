@@ -1,0 +1,32 @@
+#copy {
+    display: block
+}
+
+.inline_p, #copy {
+    display: inline-block;
+}
+
+#copy {
+    color: white;
+    margin-left: 10px;
+    background-color: rgb(75, 75, 75);
+    font-family: 'Jua', sans-serif;
+    font-size: 18px;
+    height: 35px;
+    width: 45px;
+}
+
+#copy {
+    height: 30px;
+}
+
+#main p {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#main p a {
+    text-decoration: underline;
+    color: white;
+}
